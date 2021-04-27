@@ -1,0 +1,65 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	font-family: 'Antonio', sans-serif;
+	background:url(../img/pexels-photo-1103970.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container{
+	width: 50%;
+	margin: 10% auto;
+}
+
+.login-section{
+  background: #673ab778;
+  padding: 25px;
+}
+
+.login-section img{
+  width: 150px;
+  margin: 0 auto;
+  display: block;
+}
+
+.login-section h2{
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  text-transform: uppercase;
+  margin: 10px 0px;
+}
+
+.form-control{
+  width: 95%;
+  height: 35px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.btn{
+  background: darkblue;
+  color: white;
+  padding: 5px 20px;
+  margin: 0 auto;
+  display: block;
+  border: none;
+  font-size: 20px;
+  text-transform: uppercase;
+  transition: 0.4s ease-in-out;
+  -webkit-transition: 0.4s ease-in-out;
+  -moz-transition: 0.4s ease-in-out;
+  -o-transition: 0.4s ease-in-out;
+}
+
+	.btn:hover{
+		cursor: pointer;
+		box-shadow: 1px 3px 4px white;
+	}
+	
+	margin: 0px auto;
+}
